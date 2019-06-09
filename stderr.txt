@@ -1,0 +1,182 @@
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: ObjectName type: javax.management.ObjectName
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: LoggerNames type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: MemoryManagerNames type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: ObjectName type: javax.management.ObjectName
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: MemoryManagerNames type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: ObjectName type: javax.management.ObjectName
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: MemoryPoolNames type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: ObjectName type: javax.management.ObjectName
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: MemoryManagerNames type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: ObjectName type: javax.management.ObjectName
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: InputArguments type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: SystemProperties type: javax.management.openmbean.TabularData
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: ObjectName type: javax.management.ObjectName
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: AllThreadIds type: [J
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: ObjectName type: javax.management.ObjectName
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: ObjectName type: javax.management.ObjectName
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: MemoryManagerNames type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: ObjectName type: javax.management.ObjectName
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: ObjectName type: javax.management.ObjectName
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: MemoryPoolNames type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: ObjectName type: javax.management.ObjectName
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: MemoryManagerNames type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: ObjectName type: javax.management.ObjectName
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: ObjectName type: javax.management.ObjectName
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: MemoryManagerNames type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: ObjectName type: javax.management.ObjectName
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: ObjectName type: javax.management.ObjectName
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: MemoryPoolNames type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: ObjectName type: javax.management.ObjectName
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: MemoryPoolNames type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: ObjectName type: javax.management.ObjectName
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: DiagnosticOptions type: [Ljavax.management.openmbean.CompositeData;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: ObjectName type: javax.management.ObjectName
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: ObjectName type: javax.management.ObjectName
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: ObjectName type: javax.management.ObjectName
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: roles type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: groups type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type is null: writeable
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: users type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: container type: java.lang.Object
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: environments type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: resources type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: resourceLinks type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: connectorNames type: [Ljavax.management.ObjectName;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: managedResource type: java.lang.Object
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: URLs type: [Ljava.net.URL;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: filterInitParameterMap type: java.util.Map
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: container type: java.lang.Object
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: environments type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: resources type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: resourceLinks type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: aliases type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: children type: [Ljavax.management.ObjectName;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: managedResource type: java.lang.Object
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: valveNames type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: realm type: org.apache.catalina.Realm
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: realm type: org.apache.catalina.Realm
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: managedResource type: java.lang.Object
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: socketProperties type: org.apache.tomcat.util.net.SocketProperties
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: sslEnabledProtocolsArray type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute: sslEnabledProtocolsis not readable
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: objectName type: javax.management.ObjectName
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute: secretis not readable
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: loader type: org.apache.catalina.Loader
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: logger type: org.apache.juli.logging.Log
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: mappingObject type: java.lang.Object
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: children type: [Ljavax.management.ObjectName;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: managedResource type: java.lang.Object
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: javaVMs type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: parentClassLoader type: java.lang.ClassLoader
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: configFile type: java.net.URL
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: manager type: org.apache.catalina.Manager
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: namingContextListener type: org.apache.catalina.core.NamingContextListener
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: staticResources type: javax.naming.directory.DirContext
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: instanceManager type: org.apache.catalina.instanceManagement.InstanceManager
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: servlets type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: realm type: org.apache.catalina.Realm
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: welcomeFiles type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute: requiredSecretis not readable
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: objectName type: javax.management.ObjectName
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: socketProperties type: org.apache.tomcat.util.net.SocketProperties
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: sslEnabledProtocolsArray type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute: sslEnabledProtocolsis not readable
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: realms type: [Ljavax.management.ObjectName;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute: secretis not readable
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: loaderRepositories type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: repositories type: [Ljava.lang.String;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: managedResource type: java.lang.Object
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: serviceNames type: [Ljavax.management.ObjectName;
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: globalProcessor type: org.apache.coyote.RequestGroupInfo
+Jun 08, 2019 8:06:24 PM org.newrelic.nrjmx.JMXFetcher processMBeans
+FINE: Attribute type not supported: rpName type: javax.management.ObjectName
