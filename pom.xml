@@ -60,6 +60,6 @@
   </properties>
 
   <artifactId>jmxdumper</artifactId>
-  <version>0.1.1</version>
+  <version>0.1.2</version>
   <description>JMX utility to list MBeans and attributes</description>
 </project>
