@@ -57,7 +57,7 @@ public class JMXFetcher {
     }
 
     public void processMBeans() throws Exception {
-    	System.out.println("collection:");
+    	System.out.println("collect:");
     	for (String domain : connection.getDomains()) {
     		System.out.println("  - domain: " + domain);
     		System.out.println("    event_type: " + domain + "Sample");
