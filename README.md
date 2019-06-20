@@ -16,7 +16,7 @@ Note: jmxdumper is targetted to work with Java 7
 The applicaton just expects the connection parameters to the JMX interface.
 
 ```bash
-paulbrant$ java -jar bin/jmxpicker.jar -h
+paulbrant$ java -jar bin/jmxdumper.jar -h
 usage: nrjmx
  -d,--debug                                       Debug mode
  -H,--hostname <arg>                              JMX hostname (localhost)
@@ -39,7 +39,7 @@ The utility connects to the java application via a JMX connection and iterates t
 Example usage:
 
 ```bash
-$ java -jar bin/jmxpicker.jar -P 1099 -verbose > jmx.yml 2>stderr.txt
+$ java -jar bin/jmxdumper.jar -P 1099 -verbose > jmx.yml 2>stderr.txt
 ```
 
 Warning: The utility does NOT validate that values will be valid for use with New Relic's nri-jmx OHI. For example, the event\_type is just the domain with the word Sample appended. Many JMX domains contain characters which are illegal in the event\_type. You may also end up with a query that does not have any attributes.

@@ -46,7 +46,7 @@
             </goals>
             <configuration>
               <sourceFile>target/${project.artifactId}-${project.version}-jar-with-dependencies.jar</sourceFile>
-              <destinationFile>bin/jmxpicker.jar</destinationFile>
+              <destinationFile>bin/jmxdumper.jar</destinationFile>
             </configuration>
           </execution>
         </executions>
